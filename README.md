@@ -154,10 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-Asuwe Richard - [Github](https://github.com/AsuweRich) <br>
-Timothy Adekunle - [Github](https://github.com/LeadConsult)
-
+Kelton M. Cumbe - [Github](https://github.com/nakatsinho) / [Twitter](https://twitter.com/nakatsinho)  
+Mark Kamotho - [Github](https://github.com/empty) 
 ## License
 Public Domain. No copy write protection.
